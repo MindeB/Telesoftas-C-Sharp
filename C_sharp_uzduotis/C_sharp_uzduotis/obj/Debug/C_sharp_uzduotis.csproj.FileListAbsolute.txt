@@ -1,0 +1,6 @@
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\bin\Debug\C_sharp_uzduotis.exe.config
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\bin\Debug\C_sharp_uzduotis.exe
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\bin\Debug\C_sharp_uzduotis.pdb
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\obj\Debug\C_sharp_uzduotis.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\obj\Debug\C_sharp_uzduotis.exe
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis\obj\Debug\C_sharp_uzduotis.pdb

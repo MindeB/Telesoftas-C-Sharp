@@ -1,0 +1,8 @@
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\bin\Debug\C_sharp_uzduotis_tests.dll
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\bin\Debug\C_sharp_uzduotis_tests.pdb
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\bin\Debug\C_sharp_uzduotis.exe
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\bin\Debug\C_sharp_uzduotis.pdb
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\obj\Debug\C_sharp_uzduotis_tests.csprojResolveAssemblyReference.cache
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\obj\Debug\C_sharp_uzduotis_tests.dll
+C:\Users\Mindaugas\Documents\KTU darbai\TeleSoftas\C_sharp_uzduotis\C_sharp_uzduotis_tests\obj\Debug\C_sharp_uzduotis_tests.pdb
